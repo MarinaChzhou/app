@@ -10,7 +10,7 @@ html, body {
 
 h1 {
     font-size: 36px;
-    color: #530ff3;
+    color: #f083d4;
     margin: 0;
     text-align: center;
 }
@@ -24,7 +24,7 @@ nav {
 
 a {
     text-decoration: none;
-    color: rgb(16, 25, 110);
+    color: rgb(16, 176, 240);
 }
 
 a:hover {
